@@ -29,3 +29,6 @@
 1. Scala
 2. Maven - Build
 3. JUnit and ScalaTest - Unit Testing
+
+#####Development Environment or OS:
+1. Windows 7
