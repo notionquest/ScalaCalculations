@@ -9,14 +9,14 @@
 1. Integer overflow condition need not be handled
 
 #####To compile, package and run the tests of ScalaCalculations application:
-  mvn clean package assembly:single
+	mvn clean package assembly:single
   
   **Unit Tests execution result**
   
   ![Image of unit test](https://github.com/notionquest/ProjectDocumentation/blob/master/Images/ScalaCalculationApp_UnitTests.JPG)
   
 #####To execute the ScalaCalculations App:  
-  scala target\ScalaCalculations-jar-with-dependencies.jar
+	scala target\ScalaCalculations-jar-with-dependencies.jar
   
 #####Sample Outputs:
 ![Image of word count](https://github.com/notionquest/ProjectDocumentation/blob/master/Images/ScalaCalculationApp_sample_output.JPG)
